@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "ET0TempModels"]
+	path = ET0TempModels
+	url = https://github.com/samirigfri/et0tempmodels
